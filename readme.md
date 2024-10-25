@@ -2,7 +2,7 @@
 
 ##
 
-- 💻 Hoje trabalho como Estagiária de Sistemas
+- 💻 Atualmente trabalho como Estagiária de Sistemas
 - 🌱 Atualmente estou aprendendo JavaScript, Angular e C#
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=giovanaleao&show_icons=true&theme=radical&hide=contribs&count_private=true)
